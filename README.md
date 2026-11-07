@@ -1,15 +1,20 @@
-# Hi, I'm Sandro Machiniski 👋
+# Hi, I'm Sandro Machiniski
 
-Software Engineering student (graduating December 2026) transitioning into web development after running my own business since 2016.
+Junior web developer and Software Engineering student, graduating in December 2026. Based in Brazil, open to international remote roles and relocation with visa support.
 
-- 🔭 **Main project:** [NomadPlan](https://github.com/SandroMachiniski-SE/NomadPlan) - a full-stack travel itinerary platform (TypeScript, React, Node.js, PostgreSQL/PostGIS, Docker) with automated tests, CI and full technical documentation.
-- 🐍 **Also in Python:** [tourist destination recommender](https://github.com/SandroMachiniski-SE/Sistema-Inteligente-com-PLN-Sistema-de-Infer-ncia-Fuzzy-e-Algoritmo-Gen-tico-) combining NLP sentiment analysis, fuzzy inference and genetic algorithms.
-- 🌱 **Stack:** TypeScript, Node.js, React, PostgreSQL, Docker · Python · C# · PHP/Laravel · Django
-- 🌎 Portuguese (native), Spanish (C1), English (B2)
-- 📫 linkedin.com/in/sandro-machiniski-2a1165268
+**Core stack:** TypeScript, Node.js, React, PostgreSQL/PostGIS, Docker. I also build applications in Python.
 
-### More projects in progress
+## Selected work
 
-- **OrcaFacil** - Quote management system built for my own painting business (ART Pinturas): clients and services, PDF quotes matching the company's real documents, approval tracking and WhatsApp sharing. First version in Next.js + TypeScript + Prisma; current desktop app in Python (Flet) with a Windows installer. Public pages: https://sandromachiniski-se.github.io/orcafacil-downloads/instalar.html
-- **Sev Sushi restaurant management** (team project, private repo) - Collaborating on a multi-tenant restaurant system for the Sev Sushi restaurant: waiter ordering on a phone, kitchen queue, per-table checkout, lot-based inventory and QR-code menu. Django 5 + Django REST Framework, PostgreSQL, Docker.
-- **Aurea Head Spa** (private repo) - Institutional site and online booking for a local clinic: real-time availability, admin panel (schedule, finance, visual content editor), WhatsApp confirmation and Google Calendar sync. Laravel 13 (PHP 8.4), Blade + Tailwind, Docker, automated tests + CI.
+- **OrçaFácil - used in my own painting business, Art Pinturas.** Python/Flet desktop application for clients, services and PDF quotes, with a Windows installer. Source code is private. [Installation guide](https://sandromachiniski-se.github.io/orcafacil-downloads/instalar.html).
+- **[NomadPlan](https://github.com/SandroMachiniski-SE/NomadPlan) - academic full-stack project.** Travel itinerary platform with a REST API, geospatial queries, authentication, automated tests, CI configuration and technical documentation.
+- **[Tourist destination recommender](https://github.com/SandroMachiniski-SE/Sistema-Inteligente-com-PLN-Sistema-de-Infer-ncia-Fuzzy-e-Algoritmo-Gen-tico-) - academic Python project.** NLP sentiment analysis, fuzzy inference and a Flask interface using example data.
+
+## Other work in progress
+
+- **Sev Sushi:** team project for restaurant management using Django, Django REST Framework, PostgreSQL and Docker. Private repository.
+- **Aurea Head Spa:** site and booking application using Laravel, Blade, Tailwind and Docker. Private repository.
+
+Portuguese native · Spanish C1 · English B2
+
+[Contact me on LinkedIn](https://www.linkedin.com/in/sandro-machiniski-2a1165268/)
